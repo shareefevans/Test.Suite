@@ -57,7 +57,7 @@ npm run start:dev
 
 ## 🎥 Walkthrough
 
-=> insert video here:
+[Walkthrough Link Here](https://drive.google.com/file/d/1woeEWlP_VhispiaVkxLYqybQOjcuHlpz/view)
 
 ## ❌ Issues
 
