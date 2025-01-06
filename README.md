@@ -40,9 +40,11 @@ npm run start:dev
 
 ## 👍 Usage
 
-1.
-2.
-3.
+1. run `npm run start:dev` after installing the software
+2. the software should automatically open in your browser
+3. click start Quiz
+4. you'll be presented with a variety of questions which you can select the correct answer
+5. once completed your results will be shown, you can also choose to retake the quiz
 
 ## ➕ Contributing
 
@@ -50,9 +52,8 @@ npm run start:dev
 
 ## ✅ Tests
 
--
--
--
+- once the quiz is open select the first answer for each question
+- once the quiz is complete check your score
 
 ## 🎥 Walkthrough
 
